@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DelFin</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="main">Главная</string>
+    <string name="statistic">Статистика</string>
+    <string name="settings">Настройки</string>
+    <string name="about_app">О приложении</string>
+    <string name="expenses">Расходы</string>
+    <string name="income">Доходы</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/activity_main_drawer_menu_main"
+          android:title="@string/main"
+          android:icon="@android:drawable/sym_action_chat"/>
+
+    <item android:id="@+id/activity_main_drawer_menu_statistic"
+          android:title="@string/statistic"
+          android:icon="@android:drawable/sym_action_chat"/>
+
+    <item android:id="@+id/activity_main_drawer_menu_settings"
+          android:title="@string/settings"
+          android:icon="@android:drawable/ic_dialog_info"/>
+
+    <item android:id="@+id/activity_main_drawer_menu_about"
+          android:title="@string/about_app"
+          android:icon="@android:drawable/ic_dialog_info"/>
+</menu>
